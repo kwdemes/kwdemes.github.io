@@ -1,0 +1,86 @@
+* {
+	background-color: #2e2c2f;
+	font-family: cursive;
+	font-size: 24px;
+}
+
+.container {
+	width: 100%;
+}
+
+/* Titlu */
+.titlu {
+	display: inline-block;
+	background-color: transparent;
+}
+
+.titlu h1 {
+	text-align: center;
+	font-size: 48px;
+	color: #709775;
+	margin-bottom: -10px;
+}
+
+.titlu p {
+	text-align: center;
+	color: #a1cca5;
+	margin-top: -10px;
+	background-color: transparent;
+}
+
+/* Cuprins */
+.pParte {
+	background-image: url('pic2.jpg');
+	background-size: 100% 100%;
+}
+
+.pParte h1 {
+	display: inline-block;
+	background-color: transparent;
+	margin-left: 15px;
+
+}
+
+.pParte p {
+	display: inline-block;
+	background-color: transparent;
+	margin: 0px 16px 12px 16px;
+}
+
+.pParte img {
+	display: block;
+	width: 50%;
+	margin: 0px auto;
+}
+
+.pParte #uPar {
+	margin: 0px 16px 144px 16px;
+}
+
+.pDoi {
+	background-image: url('pic7.png');
+	background-size: 100% 100%;
+	background-color: grey;
+	margin-top: 5px;
+	border: solid 2px white;
+}
+
+.pDoi h1{
+	display: inline-block;
+	background-color: transparent;
+	margin-left: 10px;
+}
+
+.pDoi p {
+	display: inline-block;
+	background-color: transparent;
+	margin: 0px 12px 12px 12px;
+}
+
+.pDoi #dUnu {
+	margin: 36px 64px 12px 64px;
+}
+
+.pDoi #dDoi {
+	margin: 0px 64px 48px 64px;
+}
